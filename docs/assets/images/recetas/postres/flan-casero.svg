@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#fff7ed"/>
+  <rect x="60" y="60" width="1080" height="680" rx="28" fill="#f7e7c6"/>
+  <rect x="350" y="220" width="500" height="330" rx="18" fill="#f8f1d8" stroke="#d7b066" stroke-width="12"/>
+  <path d="M430 250 Q600 120 770 250" fill="none" stroke="#dca43c" stroke-width="18" stroke-linecap="round"/>
+  <text x="600" y="650" text-anchor="middle" font-size="54" font-family="Arial, sans-serif" fill="#7a5930">Postre</text>
+</svg>

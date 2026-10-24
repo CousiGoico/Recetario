@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#fff3e1"/>
+  <rect x="60" y="60" width="1080" height="680" rx="28" fill="#f2d29d"/>
+  <circle cx="540" cy="350" r="170" fill="#c98a4d"/>
+  <circle cx="612" cy="278" r="56" fill="#f7c98b"/>
+  <circle cx="460" cy="318" r="68" fill="#d28b4f"/>
+  <path d="M390 520 C500 470, 680 470, 780 520" fill="none" stroke="#7e4c22" stroke-width="18" stroke-linecap="round"/>
+  <text x="600" y="650" text-anchor="middle" font-size="54" font-family="Arial, sans-serif" fill="#5b3620">Plato principal</text>
+</svg>

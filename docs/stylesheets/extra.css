@@ -1,0 +1,16 @@
+:root {
+  --md-primary-fg-color: #e65100;
+  --md-accent-fg-color: #ffab40;
+}
+
+.md-grid {
+  max-width: 80rem;
+}
+
+.md-typeset h1 {
+  color: var(--md-primary-fg-color);
+}
+
+.recipe-card {
+  margin-top: 1rem;
+}
