@@ -45,12 +45,7 @@ Tarta de queso - La villa
 2. ⚡ Calentar la mantequilla en el microondas.
 3. 🧂 Mezclar la mantequilla y las galletas trituradas.
 4. 🏗️ Montar la base de un molde con la mezcla entre mantequilla y las galletas.
-5. 🍳 En una batidora mezclar los siguientes ingredientes:
-  - 🥚 Huevos
-  - 🌾 Harina
-  - 🍚 Azúcar
-  - 🥛 Nata
-  - 🧀 Queso philadelphia
+5. 🍳 En una batidora mezclar los siguientes ingredientes:  🥚 Huevos, 🌾 Harina,  🍚 Azúcar,  🥛 Nata,  🧀 Queso philadelphia
 6. 🫙 Una vez que tengamos la mezcla, la echamos dentro del molde y encima de la base.
 7. 🔥 Metemos el molde al horno durante 35 minutos a 200º.
 8. ⏳ Cuando pasen los 35 minutos, apagamos el horno y dejamos que el molde se temple.
