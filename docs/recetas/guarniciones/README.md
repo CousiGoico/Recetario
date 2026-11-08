@@ -4,4 +4,6 @@ Acompañamientos y platos de apoyo. Ideales para complementar tus platos princip
 
 ## Recetas disponibles:
 
-Actualmente no hay recetas en esta categoría.
+- 🍚 [Arroz blanco](arroz-blanco.md)
+- 🍟 [Patatas al horno](patatas-al-horno.md)
+- 🥔 [Puré de patatas](pure-de-patatas.md)
