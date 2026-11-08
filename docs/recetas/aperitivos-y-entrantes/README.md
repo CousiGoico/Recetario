@@ -4,7 +4,5 @@ Deliciosas opciones para comenzar tus comidas. Desde aperitivos para servir en o
 
 ## Recetas disponibles:
 
-- 🦐 [Gambas al ajillo](gambas-al-ajillo.md)
-- 🍖 [Costillas BBQ](costillas-bbq.md)
-- 🍔 [Steven Kosner](steven-kosner.md)
 - 🥔 [Tortilla española](tortilla-espanola.md)
+- 🥬 [Gambas al ajillo](gambas-al-ajillo.md)
