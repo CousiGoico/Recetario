@@ -12,27 +12,27 @@ difficulty: media
 image: ../../assets/images/recetas/postres/flan-casero.svg
 ---
 
-# Flan casero
+# 🍮 Flan casero
 
-## Descripción
+## 📝 Descripción
 
 Un postre suave y sencillo, perfecto para compartir.
 
-## Ingredientes
+## 🛒 Ingredientes
 
-- Leche
-- Huevos
-- Azúcar
-- Vainilla
-- Caramelo
+- 🥛 Leche
+- 🥚 Huevos
+- 🍚 Azúcar
+- 🌾 Vainilla
+- 🍯 Caramelo
 
-## Preparación
+## 👨‍🍳 Preparación
 
-1. Prepara el caramelo y reparte en los moldes.
-2. Mezcla la leche con los huevos y la vainilla.
-3. Vierte la mezcla en los moldes.
-4. Hornea al baño maría hasta cuajar.
+1. 🔥 Prepara el caramelo y reparte en los moldes.
+2. 🥣 Mezcla la leche con los huevos y la vainilla.
+3. 🫙 Vierte la mezcla en los moldes.
+4. 🌡️ Hornea al baño maría hasta cuajar.
 
-## Nota
+## 💡 Nota
 
-Deja enfriar antes de desmoldar para que quede mejor.
+❄️ Deja enfriar antes de desmoldar para que quede mejor.

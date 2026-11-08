@@ -12,29 +12,29 @@ difficulty: fácil
 image: ../../assets/images/recetas/entradas/gazpacho-andaluz.svg
 ---
 
-# Gazpacho andaluz
+# 🥗 Gazpacho andaluz
 
 ## Descripción
 
 Receta fresca, sencilla y muy apropiada para servir como entrante.
 
-## Ingredientes
+## 🛒 Ingredientes
 
-- Tomates maduros
-- Pepino
-- Pimiento verde
-- Ajo
-- Vinagre
-- Aceite de oliva
-- Sal
+- 🍅 Tomates maduros
+- 🥒 Pepino
+- 🌶️ Pimiento verde
+- 🧄 Ajo
+- 🍶 Vinagre
+- 🫒 Aceite de oliva
+- 🧂 Sal
 
-## Preparación
+## 👨‍🍳 Preparación
 
-1. Lava y corta la verdura.
-2. Tritura todos los ingredientes hasta obtener una textura cremosa.
-3. Ajusta la sal y el vinagre al gusto.
-4. Sirve bien frío.
+1. 🚿 Lava y corta la verdura.
+2. 🍯 Tritura todos los ingredientes hasta obtener una textura cremosa.
+3. 🧂 Ajusta la sal y el vinagre al gusto.
+4. ❄️ Sirve bien frío.
 
-## Nota
+## 💡 Nota
 
 Puedes añadir pan o acompañar con verduras picadas si lo prefieres.

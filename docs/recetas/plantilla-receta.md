@@ -11,34 +11,34 @@ difficulty: fácil
 image: ../../assets/images/recetas/plantilla.svg
 ---
 
-# Título de la receta
+# 🍽️ Título de la receta
 
-## Descripción
+## 📝 Descripción
 
 Escribe una breve descripción de la receta.
 
-## Ingredientes
+## 🛒 Ingredientes
 
-- Ingrediente 1
-- Ingrediente 2
-- Ingrediente 3
+- 🥘 Ingrediente 1
+- 🥘 Ingrediente 2
+- 🥘 Ingrediente 3
 
-## Preparación
+## 👨‍🍳 Preparación
 
-1. Paso 1.
-2. Paso 2.
-3. Paso 3.
+1. 🔥 Paso 1.
+2. 🥄 Paso 2.
+3. ✅ Paso 3.
 
-## Notas
+## 💡 Notas
 
 Añade observaciones o sugerencias útiles.
 
-## Referencias
+## 📚 Referencias
 
 - [Referencia 1](https://www.ejemplo.com)
 - [Referencia 2](https://www.ejemplo.com)
 
-## Tags
+## 🏷️ Tags
 
 - #tag1
 - #tag2

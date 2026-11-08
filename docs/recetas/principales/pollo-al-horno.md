@@ -12,29 +12,29 @@ difficulty: media
 image: ../../assets/images/recetas/principales/pollo-al-horno.svg
 ---
 
-# Pollo al horno
+# 🍗 Pollo al horno
 
-## Descripción
+## 📝 Descripción
 
 Un plato sencillo, sabroso y fácil de preparar con ingredientes básicos.
 
-## Ingredientes
+## 🛒 Ingredientes
 
-- Cuartos de pollo
-- Patatas
-- Ajo
-- Romero
-- Pimienta
-- Aceite de oliva
-- Sal
+- 🍗 Cuartos de pollo
+- 🥔 Patatas
+- 🧄 Ajo
+- 🌿 Romero
+- 🌶️ Pimienta
+- 🫒 Aceite de oliva
+- 🧂 Sal
 
-## Preparación
+## 👨‍🍳 Preparación
 
-1. Precalienta el horno.
-2. Mezcla los ingredientes con aceite y especias.
-3. Coloca el pollo y las patatas en una bandeja.
-4. Hornea hasta que esté bien cocinado.
+1. 🔥 Precalienta el horno.
+2. 🥣 Mezcla los ingredientes con aceite y especias.
+3. 🍽️ Coloca el pollo y las patatas en una bandeja.
+4. 🌡️ Hornea hasta que esté bien cocinado.
 
-## Nota
+## 💡 Nota
 
-Puedes añadir verduras según lo que tengas en la nevera.
+🥕 Puedes añadir verduras según lo que tengas en la nevera.
