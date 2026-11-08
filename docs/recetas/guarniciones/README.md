@@ -4,5 +4,4 @@ Acompañamientos y platos de apoyo. Ideales para complementar tus platos princip
 
 ## Recetas disponibles:
 
-- 🍚 [Arroz con leche](arroz-con-leche.md)
-- 🍗 [Pollo al horno](pollo-al-horno.md)
+Actualmente no hay recetas en esta categoría.

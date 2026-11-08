@@ -11,6 +11,7 @@ Las recetas más completas y satisfactorias. Desde arroces y pastas hasta carnes
 - 🍝 [Pasta Carbonara](carbonara.md)
 - 🌶️ [Pollo al curry](curry-pollo.md)
 - 🥘 [Paella](paella.md)
+- 🍗 [Pollo al horno](pollo-al-horno.md)
 - 🍗 [Pollo al horno con limón](pollo-al-horno-con-limon.md)
 - 🍗 [Pollo con almendras](pollo-con-almendras.md)
 - 🐟 [Salmón](salmon.md)
