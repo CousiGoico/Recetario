@@ -1,10 +1,9 @@
 # 🍰 Postres
 
-Recetas dulces y sencillas para cerrar cualquier comida.
+Dulces y sabrosas opciones para terminar tus comidas. Desde postres clásicos hasta alternativas modernas.
 
-## 📋 Ejemplos
+## Recetas disponibles:
 
-- [Arroz con leche](arroz-con-leche.md)
-- [Brownies caseros](brownie.md)
-- [Flan casero](flan-casero.md)
-- [Tarta de queso](tarta-queso.md)
+- 🍫 [Brownie](brownie.md)
+- 🍮 [Flan casero](flan-casero.md)
+- 🎂 [Tarta de queso](tarta-queso.md)

@@ -1,12 +1,15 @@
 # Recetario personal
 
-Bienvenido a tu recetario personal. Aquí encontrarás recetas organizadas por categorías para cocinar de forma sencilla y mantener una colección clara y útil.
+Bienvenido a tu recetario personal. Aquí encontrarás más de 23 recetas organizadas por categorías para cocinar de forma sencilla y mantener una colección clara y útil.
 
-## Últimas categorías
+## Categorías principales
 
-- [Entradas](recetas/entradas/README.md)
-- [Principales](recetas/principales/README.md)
-- [Postres](recetas/postres/README.md)
+- 🥂 [Aperitivos y Entrantes](recetas/aperitivos-y-entrantes/README.md)
+- 🥗 [Ensaladas y Verduras](recetas/ensaladas-y-verduras/README.md)
+- 🍲 [Sopas, Cremas y Caldos](recetas/sopas-cremas-y-caldos/README.md)
+- 🍽️ [Platos Principales](recetas/platos-principales/README.md)
+- 🥘 [Guarniciones](recetas/guarniciones/README.md)
+- 🍰 [Postres](recetas/postres/README.md)
 
 ## Cómo mantenerlo
 

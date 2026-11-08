@@ -1,1 +1,8 @@
 title: Recetas
+nav:
+  - Aperitivos y Entrantes: aperitivos-y-entrantes/README.md
+  - Ensaladas y Verduras: ensaladas-y-verduras/README.md
+  - Sopas, Cremas y Caldos: sopas-cremas-y-caldos/README.md
+  - Platos Principales: platos-principales/README.md
+  - Guarniciones: guarniciones/README.md
+  - Postres: postres/README.md
