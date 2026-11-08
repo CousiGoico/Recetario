@@ -4,5 +4,4 @@ Recetas para platos principales de comida casera.
 
 ## Ejemplos
 
-- Pollo al horno
-- Pasta con verduras
+- [Pollo al horno](pollo-al-horno.md)
