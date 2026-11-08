@@ -20,6 +20,26 @@ image: ../../assets/images/recetas/principales/lentejas.svg
 
 Las lentejas guisadas son un plato tradicional español reconfortante y muy nutritivo. Lentejas tiernas cocidas lentamente con verduras, chorizo y un toque ahumado crean una comida deliciosa, económica y muy satisfactoria. Perfecta para comidas en familia o cenas sencillas.
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 420 kcal | - |
+| 💪 Proteínas | 24 g | 48% |
+| 🥗 Grasas | 14 g | 21% |
+| 🌾 Carbohidratos | 48 g | 16% |
+| 🧂 Sodio | 720 mg | 31% |
+| 💎 Calcio | 65 mg | 5% |
+| 🩸 Hierro | 6.2 mg | 34% |
+| 🥦 Fibra | 12.5 g | 50% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🥓 Contiene: Carne de cerdo (chorizo)
+- ✅ Sin: Gluten, pescado, marisco, frutos secos, lácteos
 ## 🛒 Ingredientes
 
 - 🫘 Lentejas pardinas o rojas (350 g, secas)
@@ -65,12 +85,6 @@ Las lentejas guisadas son un plato tradicional español reconfortante y muy nutr
 - 🧈 Algunos añaden una cucharada de mantequilla al final para enriquecer.
 - 🍲 Se conserva bien en la nevera 4-5 días y es aún más sabrosa al día siguiente.
 - ♻️ Se puede congelar en porciones.
-
-## ⚠️ Alergenos
-
-- 🥓 Contiene: Carne de cerdo (chorizo)
-- ✅ Sin: Gluten, pescado, marisco, frutos secos, lácteos
-
 ## 📚 Referencias
 
 - Receta tradicional española, perfecta para comidas sencillas.

@@ -21,6 +21,26 @@ image: ../../assets/images/recetas/principales/pollo-al-horno-con-limon.svg
 
 El pollo al horno con limón es una receta clásica, sencilla y muy sabrosa. El marinado de limón, ajo y hierbas aromáticas penetra en la carne, dejando un pollo jugoso y tierno por dentro con la piel dorada y crujiente por fuera. Es un plato perfecto para cualquier día de la semana, especialmente para comidas en familia.
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 420 kcal | - |
+| 💪 Proteínas | 45 g | 90% |
+| 🥗 Grasas | 20 g | 31% |
+| 🌾 Carbohidratos | 6 g | 2% |
+| 🧂 Sodio | 480 mg | 21% |
+| 💎 Calcio | 55 mg | 4% |
+| 🩸 Hierro | 1.5 mg | 8% |
+| 🥦 Fibra | 0.8 g | 3% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🍗 Contiene: Pollo
+- ✅ Sin: Gluten, huevos, lácteos, marisco, pescado, frutos secos
 ## 🛒 Ingredientes
 
 - 🍗 Pollo entero de 1,5 kg (o 4 muslos y 4 pechugas)
@@ -67,12 +87,6 @@ El pollo al horno con limón es una receta clásica, sencilla y muy sabrosa. El 
 - 🌿 Si no tienes hierbas secas, puedes usar hierbas frescas duplicando la cantidad.
 - 🍽️ Sirve acompañado de ensalada fresca, patatas al horno o arroz.
 - 🗂️ El pollo se puede preparar con antelación y guardar en la nevera hasta 3 días.
-
-## ⚠️ Alergenos
-
-- 🍗 Contiene: Pollo
-- ✅ Sin: Gluten, huevos, lácteos, marisco, pescado, frutos secos
-
 ## 📚 Referencias
 
 - Receta inspirada en los platos mediterráneos tradicionales.

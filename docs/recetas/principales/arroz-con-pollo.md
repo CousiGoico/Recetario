@@ -20,6 +20,27 @@ image: ../../assets/images/recetas/principales/arroz-con-pollo.svg
 
 El arroz con pollo es un plato español casero y reconfortante que combina pollo jugoso con arroz sabroso cocinado en un caldo aromático con verduras. Es una comida completa, económica y perfecta para reuniones en familia.
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 520 kcal | - |
+| 💪 Proteínas | 32 g | 64% |
+| 🥗 Grasas | 12 g | 18% |
+| 🌾 Carbohidratos | 68 g | 23% |
+| 🧂 Sodio | 680 mg | 30% |
+| 💎 Calcio | 45 mg | 4% |
+| 🩸 Hierro | 2.8 mg | 16% |
+| 🥦 Fibra | 3.2 g | 13% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🍗 Contiene: Pollo
+- 🍚 Contiene: Arroz
+- ✅ Sin: Gluten, huevos, lácteos, marisco, pescado, frutos secos
 ## 🛒 Ingredientes
 
 - 🍗 Pollo (800 g, cortado en trozos: muslos, pechugas)
@@ -68,13 +89,6 @@ El arroz con pollo es un plato español casero y reconfortante que combina pollo
 - 🍚 El arroz debe quedar suelto pero con algo de caldo, no seco.
 - 🧈 Algunos añaden un poco de caldo de pescado en lugar de todo caldo de pollo para más sabor.
 - 👨‍👩‍👧‍👦 Plato perfecto para comidas en familia.
-
-## ⚠️ Alergenos
-
-- 🍗 Contiene: Pollo
-- 🍚 Contiene: Arroz
-- ✅ Sin: Gluten, huevos, lácteos, marisco, pescado, frutos secos
-
 ## 📚 Referencias
 
 - Receta tradicional española, variante de la paella.

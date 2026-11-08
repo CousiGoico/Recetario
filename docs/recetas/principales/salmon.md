@@ -20,6 +20,27 @@ image: ../../assets/images/recetas/principales/salmon.svg
 
 El salmón a la mantequilla es una receta elegante pero fácil de preparar. El pescado jugoso y sabroso se cocina en una mantequilla aromática con hierbas y limón, creando una salsa deliciosa que acompaña perfectamente el salmón. Ideal para cenas especiales.
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 425 kcal | - |
+| 💪 Proteínas | 38 g | 76% |
+| 🥗 Grasas | 28 g | 43% |
+| 🌾 Carbohidratos | 2 g | 1% |
+| 🧂 Sodio | 280 mg | 12% |
+| 💎 Calcio | 35 mg | 3% |
+| 🩸 Hierro | 0.9 mg | 5% |
+| 🥦 Fibra | 0.2 g | 1% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🐟 Contiene: Salmón (pescado)
+- 🧈 Contiene: Lácteos (mantequilla)
+- ✅ Sin: Gluten, huevos, marisco, frutos secos
 ## 🛒 Ingredientes
 
 - 🐟 Filetes de salmón (4, de 150 g cada uno)
@@ -57,13 +78,6 @@ El salmón a la mantequilla es una receta elegante pero fácil de preparar. El p
 - 🍷 El vino blanco y el caldo de pescado son opcionales pero recomendables.
 - 🍽️ Sirve acompañado de verduras asadas, patatas o arroz blanco.
 - 👨‍👩‍👧‍👦 Plato perfecto para cenas elegantes o date night.
-
-## ⚠️ Alergenos
-
-- 🐟 Contiene: Salmón (pescado)
-- 🧈 Contiene: Lácteos (mantequilla)
-- ✅ Sin: Gluten, huevos, marisco, frutos secos
-
 ## 📚 Referencias
 
 - Receta clásica de la cocina francesa adaptada.

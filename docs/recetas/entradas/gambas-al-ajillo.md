@@ -20,6 +20,25 @@ image: ../../assets/images/recetas/entradas/gambas-al-ajillo.svg
 
 Las gambas al ajillo son una receta clásica española, sencilla pero espectacular. Los gambones jugosos se cocinan en una salsa aromática de aceite de oliva y ajo. Es perfecta como entrada elegante o para servir como tapa con pan tostado.
 
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 240 kcal | - |
+| 💪 Proteínas | 18 g | 36% |
+| 🥗 Grasas | 16 g | 25% |
+| 🌾 Carbohidratos | 3 g | 1% |
+| 🧂 Sodio | 620 mg | 27% |
+| 💎 Calcio | 95 mg | 8% |
+| 🩸 Hierro | 3.2 mg | 18% |
+| 🥦 Fibra | 0.5 g | 2% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🦐 Contiene: Marisco (gambas)
+- ✅ Sin: Gluten, huevos, frutos secos, lácteos, pescado
 ## 🛒 Ingredientes
 
 - 🦐 Gambas o gambones (600 g)
@@ -53,12 +72,6 @@ Las gambas al ajillo son una receta clásica española, sencilla pero espectacul
 - 🍷 El vino blanco es opcional pero añade complejidad al sabor.
 - 🍞 Sirve con pan tostado para aprovechar todo el aceite aromático.
 - 👨‍👩‍👧‍👦 Perfecta como entrada para cenas especiales o como tapa.
-
-## ⚠️ Alergenos
-
-- 🦐 Contiene: Marisco (gambas)
-- ✅ Sin: Gluten, huevos, frutos secos, lácteos, pescado
-
 ## 📚 Referencias
 
 - Receta tradicional española de los bares de tapas.

@@ -20,6 +20,29 @@ image: ../../assets/images/recetas/principales/steven-kosner.svg
 
 La hamburguesa Steven Kosner es una receta inspirada en la famosa hamburguesa de Goiko. Combina carne de costilla asada con carne picada fresca, creando una hamburguesa jugosa y sabrosa con texturas contrastantes. Es el sueño de todo amante de las hamburguesas premium.
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 620 kcal | - |
+| 💪 Proteínas | 46 g | 92% |
+| 🥗 Grasas | 38 g | 58% |
+| 🌾 Carbohidratos | 28 g | 9% |
+| 🧂 Sodio | 720 mg | 31% |
+| 💎 Calcio | 280 mg | 22% |
+| 🩸 Hierro | 3.2 mg | 18% |
+| 🥦 Fibra | 1.5 g | 6% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🥩 Contiene: Ternera, cerdo
+- 🍞 Contiene: Gluten (pan), huevos (brioche)
+- 🧀 Contiene: Lácteos (queso, mayonesa)
+- 🌶️ Contiene: Mostaza
+- ✅ Sin: Marisco, pescado, frutos secos
 ## 🛒 Ingredientes
 
 **Para la carne:**
@@ -95,15 +118,6 @@ La hamburguesa Steven Kosner es una receta inspirada en la famosa hamburguesa de
 - 🍅 Los vegetales frescos contrastan perfecto con la carne jugosa.
 - 🍔 Puedes hacer las hamburguesas con antelación y congelarlas antes de cocinar.
 - 👨‍👩‍👧‍👦 Receta para ocasiones especiales o cuando quieras sorprender.
-
-## ⚠️ Alergenos
-
-- 🥩 Contiene: Ternera, cerdo
-- 🍞 Contiene: Gluten (pan), huevos (brioche)
-- 🧀 Contiene: Lácteos (queso, mayonesa)
-- 🌶️ Contiene: Mostaza
-- ✅ Sin: Marisco, pescado, frutos secos
-
 ## 📚 Referencias
 
 - Inspirada en la famosa hamburguesa Steven Kosner de Goiko.

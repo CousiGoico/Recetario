@@ -20,6 +20,27 @@ image: ../../assets/images/recetas/principales/cocido.svg
 
 El cocido es uno de los platos más tradicionales y reconfortantes de la gastronomía española. Es un guiso lento donde carnes variadas, garbanzos y verduras se cocinan juntas en un caldo aromático. Perfecto para comidas en familia, especialmente en días fríos.
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 640 kcal | - |
+| 💪 Proteínas | 58 g | 116% |
+| 🥗 Grasas | 22 g | 34% |
+| 🌾 Carbohidratos | 48 g | 16% |
+| 🧂 Sodio | 580 mg | 25% |
+| 💎 Calcio | 125 mg | 10% |
+| 🩸 Hierro | 4.2 mg | 23% |
+| 🥦 Fibra | 8.5 g | 34% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🥩 Contiene: Carnes de ternera y pollo, garbanzos
+- 🍡 Puede contener: Cerdo (si usa chorizo y morcilla)
+- ✅ Sin: Gluten, pescado, marisco, frutos secos, lácteos
 ## 🛒 Ingredientes
 
 **Para el cocido:**
@@ -65,13 +86,6 @@ El cocido es uno de los platos más tradicionales y reconfortantes de la gastron
 - 🗂️ Se puede preparar con antelación y conservar en la nevera. Rehiérvelo cuando vaya a servir.
 - 🌡️ Perfecta comida para días fríos o cuando tienes tiempo.
 - 👨‍👩‍👧‍👦 Plato muy tradicional que reúne a la familia.
-
-## ⚠️ Alergenos
-
-- 🥩 Contiene: Carnes de ternera y pollo, garbanzos
-- 🍡 Puede contener: Cerdo (si usa chorizo y morcilla)
-- ✅ Sin: Gluten, pescado, marisco, frutos secos, lácteos
-
 ## 📚 Referencias
 
 - Receta tradicional española, especialmente de Madrid.

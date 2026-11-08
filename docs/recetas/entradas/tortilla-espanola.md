@@ -20,6 +20,27 @@ image: ../../assets/images/recetas/entradas/tortilla-espanola.svg
 
 La tortilla española es uno de los platos más icónicos de la gastronomía española. Patatas blandas y caramelizadas combinadas con huevos esponjosos crean una tortilla jugosa y deliciosa. Perfecta como entrada, tapa o incluso como plato principal acompañada de ensalada.
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 385 kcal | - |
+| 💪 Proteínas | 18 g | 36% |
+| 🥗 Grasas | 28 g | 43% |
+| 🌾 Carbohidratos | 22 g | 7% |
+| 🧂 Sodio | 385 mg | 17% |
+| 💎 Calcio | 75 mg | 6% |
+| 🩸 Hierro | 2.1 mg | 12% |
+| 🥦 Fibra | 1.8 g | 7% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🥚 Contiene: Huevos
+- 🥔 Contiene: Patatas
+- ✅ Sin: Gluten, lácteos, marisco, pescado, frutos secos
 ## 🛒 Ingredientes
 
 - 🥔 Patatas (500 g, preferiblemente patatas harinosas)
@@ -57,13 +78,6 @@ La tortilla española es uno de los platos más icónicos de la gastronomía esp
 - 🥚 La tortilla debe quedar jugosa en el centro, no completamente seca.
 - 🍽️ Sirve con pan tostado y una buena salsa de tomate casera.
 - ❄️ Se conserva bien en la nevera durante 3-4 días.
-
-## ⚠️ Alergenos
-
-- 🥚 Contiene: Huevos
-- 🥔 Contiene: Patatas
-- ✅ Sin: Gluten, lácteos, marisco, pescado, frutos secos
-
 ## 📚 Referencias
 
 - Receta tradicional española, variantes en toda España.

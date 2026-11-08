@@ -20,6 +20,27 @@ image: ../../assets/images/recetas/principales/bolonesa.svg
 
 La pasta a la boloñesa es un clásico italiano que combina una sabrosa salsa de carne molida con tomates. Esta versión se cocina lentamente para permitir que los sabores se mezclen y creen una salsa profunda y deliciosa. Perfecta para cenas en familia.
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 520 kcal | - |
+| 💪 Proteínas | 32 g | 64% |
+| 🥗 Grasas | 16 g | 25% |
+| 🌾 Carbohidratos | 62 g | 21% |
+| 🧂 Sodio | 420 mg | 18% |
+| 💎 Calcio | 95 mg | 8% |
+| 🩸 Hierro | 3.8 mg | 21% |
+| 🥦 Fibra | 3.2 g | 13% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🥩 Contiene: Carne de ternera, gluten (pasta)
+- 🧈 Puede contener: Lácteos (mantequilla, si la usas)
+- ✅ Sin: Huevos, marisco, frutos secos, pescado
 ## 🛒 Ingredientes
 
 **Para la salsa boloñesa:**
@@ -76,13 +97,6 @@ La pasta a la boloñesa es un clásico italiano que combina una sabrosa salsa de
 - 🍝 Usa pasta de forma larga como pappardelle o tagliatelle, no spaghetti.
 - 🗂️ La salsa se puede congelar y guardar hasta 3 meses.
 - 👨‍👩‍👧‍👦 Perfecta para comidas en familia o para hacer en cantidad y congelar en porciones.
-
-## ⚠️ Alergenos
-
-- 🥩 Contiene: Carne de ternera, gluten (pasta)
-- 🧈 Puede contener: Lácteos (mantequilla, si la usas)
-- ✅ Sin: Huevos, marisco, frutos secos, pescado
-
 ## 📚 Referencias
 
 - Receta clásica de Bolonia, Italia.

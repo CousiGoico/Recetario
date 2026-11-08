@@ -20,6 +20,28 @@ image: ../../assets/images/recetas/principales/curry-pollo.svg
 
 El Pollo al curry es un plato clásico de la cocina india que combina pollo jugoso con una salsa aromática y especiada hecha con polvo de curry, cebolla, tomate y especias. Es más sencillo que el Tikka Masala pero igual de sabroso y reconfortante.
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 485 kcal | - |
+| 💪 Proteínas | 38 g | 76% |
+| 🥗 Grasas | 28 g | 43% |
+| 🌾 Carbohidratos | 18 g | 6% |
+| 🧂 Sodio | 420 mg | 18% |
+| 💎 Calcio | 125 mg | 10% |
+| 🩸 Hierro | 2.2 mg | 12% |
+| 🥦 Fibra | 2.8 g | 11% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🍗 Contiene: Pollo
+- 🥛 Contiene: Coco (podría ser alérgeno en algunas personas)
+- 🌶️ Contiene: Especias variadas (posible alérgeno en personas sensibles)
+- ✅ Sin: Gluten, huevos, lácteos (a menos que uses crema en lugar de leche de coco), marisco, pescado, frutos secos
 ## 🛒 Ingredientes
 
 - 🍗 Pollo (800 g, cortado en trozos: muslos y pechugas)
@@ -74,14 +96,6 @@ El Pollo al curry es un plato clásico de la cocina india que combina pollo jugo
 - 🥬 Puedes añadir verduras como calabaza, guisantes, judías verdes o espinacas.
 - 🍚 El arroz basmati es tradicional, pero cualquier arroz funciona.
 - ❄️ Se congela bien. Perfecto para hacer en cantidad.
-
-## ⚠️ Alergenos
-
-- 🍗 Contiene: Pollo
-- 🥛 Contiene: Coco (podría ser alérgeno en algunas personas)
-- 🌶️ Contiene: Especias variadas (posible alérgeno en personas sensibles)
-- ✅ Sin: Gluten, huevos, lácteos (a menos que uses crema en lugar de leche de coco), marisco, pescado, frutos secos
-
 ## 📚 Referencias
 
 - Receta inspirada en la cocina india clásica.

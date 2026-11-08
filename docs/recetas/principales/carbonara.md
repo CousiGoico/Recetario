@@ -20,6 +20,27 @@ image: ../../assets/images/recetas/principales/carbonara.svg
 
 La pasta a la carbonara es un clásico italiano auténtico, cremoso y sabroso sin necesidad de nata. La salsa se crea naturalmente con la yema de huevo, el queso Pecorino Romano y la grasa del guanciale. Es rápida, fácil y absolutamente deliciosa.
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 580 kcal | - |
+| 💪 Proteínas | 28 g | 56% |
+| 🥗 Grasas | 32 g | 49% |
+| 🌾 Carbohidratos | 48 g | 16% |
+| 🧂 Sodio | 850 mg | 37% |
+| 💎 Calcio | 280 mg | 22% |
+| 🩸 Hierro | 2.4 mg | 13% |
+| 🥦 Fibra | 1.8 g | 7% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🍝 Contiene: Pasta (gluten), huevos, queso Pecorino Romano
+- 🥓 Contiene: Cerdo (guanciale/panceta)
+- ✅ Sin: Marisco, pescado, frutos secos
 ## 🛒 Ingredientes
 
 - 🍝 Pasta (400 g, preferiblemente spaghetti o tonnarelli)
@@ -52,13 +73,6 @@ La pasta a la carbonara es un clásico italiano auténtico, cremoso y sabroso si
 - 🧀 Usa queso fresco, nunca polvos pre-rallados.
 - ⏱️ Trabaja rápido una vez mezclada la pasta con los huevos.
 - 🍝 La carbonara es sencilla pero técnica. ¡Práctica hace el maestro!
-
-## ⚠️ Alergenos
-
-- 🍝 Contiene: Pasta (gluten), huevos, queso Pecorino Romano
-- 🥓 Contiene: Cerdo (guanciale/panceta)
-- ✅ Sin: Marisco, pescado, frutos secos
-
 ## 📚 Referencias
 
 - Receta auténtica romana de la cocina italiana.

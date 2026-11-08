@@ -21,6 +21,27 @@ image: ../../assets/images/recetas/principales/arroz-con-gambas-y-chirlas.svg
 
 Este arroz con gambas y chirlas es un plato marinero delicioso que combina todo el sabor del mar en cada bocado. Las gambas aportan un sabor dulce y jugoso, mientras que las chirlas añaden un toque de crujencia y autenticidad. Es un plato festivo y sabroso, perfecto para cenas especiales o comidas de fin de semana.
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 480 kcal | - |
+| 💪 Proteínas | 28 g | 56% |
+| 🥗 Grasas | 10 g | 15% |
+| 🌾 Carbohidratos | 64 g | 21% |
+| 🧂 Sodio | 720 mg | 31% |
+| 💎 Calcio | 85 mg | 7% |
+| 🩸 Hierro | 4.2 mg | 23% |
+| 🥦 Fibra | 2.5 g | 10% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🦐 Contiene: Marisco (gambas, chirlas)
+- 🍚 Contiene: Arroz
+- ✅ Sin: Gluten, huevos, lácteos, frutos secos, pescado
 ## 🛒 Ingredientes
 
 - 🍚 Arroz redondo o bomba (300 g)
@@ -66,13 +87,6 @@ Este arroz con gambas y chirlas es un plato marinero delicioso que combina todo 
 - 🐚 Puedes añadir mejillones si lo deseas para más variedad de marisco.
 - 🌡️ Este plato es mejor servirlo caliente recién hecho.
 - 🫒 Si quieres hacerlo más ligero, reduce la cantidad de aceite a 2 cucharadas.
-
-## ⚠️ Alergenos
-
-- 🦐 Contiene: Marisco (gambas, chirlas)
-- 🍚 Contiene: Arroz
-- ✅ Sin: Gluten, huevos, lácteos, frutos secos, pescado
-
 ## 📚 Referencias
 
 - Receta inspirada en los platos marineros españoles tradicionales.

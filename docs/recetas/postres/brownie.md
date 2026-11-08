@@ -20,6 +20,27 @@ image: ../../assets/images/recetas/postres/brownie.svg
 
 Los brownies son un postre clásico americano: densos, fudgy y llenos de sabor a chocolate. Esta versión casera tiene textura crujiente por fuera y jugosa por dentro, perfecta para los amantes del chocolate. Ideales para disfrutar con café o como postre después de comida.
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 380 kcal | - |
+| 💪 Proteínas | 5 g | 10% |
+| 🥗 Grasas | 22 g | 34% |
+| 🌾 Carbohidratos | 42 g | 14% |
+| 🧂 Sodio | 180 mg | 8% |
+| 💎 Calcio | 45 mg | 4% |
+| 🩸 Hierro | 2.5 mg | 14% |
+| 🥦 Fibra | 2.2 g | 9% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🍫 Contiene: Cacao, chocolate, huevos, harina de trigo
+- 🥜 Puede contener: Frutos secos (si los añades)
+- ✅ Sin: Lácteos (si usas mantequilla vegana), gluten (si usas harina sin gluten)
 ## 🛒 Ingredientes
 
 - 🍫 Chocolate oscuro (200 g, 70% cacao mínimo, picado)
@@ -60,13 +81,6 @@ Los brownies son un postre clásico americano: densos, fudgy y llenos de sabor a
 - 💧 Si quieres brownies más jugosos, retira del horno 2-3 minutos antes.
 - ❄️ Se conservan bien durante 5-7 días en un recipiente hermético.
 - 🌡️ Están especialmente buenos cuando se sirven ligeramente templados.
-
-## ⚠️ Alergenos
-
-- 🍫 Contiene: Cacao, chocolate, huevos, harina de trigo
-- 🥜 Puede contener: Frutos secos (si los añades)
-- ✅ Sin: Lácteos (si usas mantequilla vegana), gluten (si usas harina sin gluten)
-
 ## 📚 Referencias
 
 - Receta clásica de brownies americanos.

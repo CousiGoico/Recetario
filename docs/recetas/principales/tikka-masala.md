@@ -20,6 +20,28 @@ image: ../../assets/images/recetas/principales/tikka-masala.svg
 
 El Pollo Tikka Masala es un clásico de la cocina india moderna que combina pollo tierno y jugoso marinado en especias con una salsa cremosa de tomate y nata. Este plato aromático y sabroso es perfecto para quienes aman los sabores complejos y especiados.
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 540 kcal | - |
+| 💪 Proteínas | 42 g | 84% |
+| 🥗 Grasas | 32 g | 49% |
+| 🌾 Carbohidratos | 18 g | 6% |
+| 🧂 Sodio | 480 mg | 21% |
+| 💎 Calcio | 180 mg | 14% |
+| 🩸 Hierro | 2.5 mg | 14% |
+| 🥦 Fibra | 2.2 g | 9% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🍗 Contiene: Pollo
+- 🥛 Contiene: Lácteos (yogur, nata)
+- 🌶️ Contiene: Especias variadas (posible alérgeno en personas sensibles)
+- ✅ Sin: Gluten, huevos, marisco, pescado, frutos secos
 ## 🛒 Ingredientes
 
 **Para el pollo marinado:**
@@ -100,14 +122,6 @@ El Pollo Tikka Masala es un clásico de la cocina india moderna que combina poll
 - 🌿 El garam masala es fundamental para el sabor auténtico. Búscalo en mercados indios o online.
 - 🍚 El arroz basmati es más auténtico, pero cualquier arroz funciona.
 - 🍞 El pan naan casero o comprado complementa perfectamente este plato.
-
-## ⚠️ Alergenos
-
-- 🍗 Contiene: Pollo
-- 🥛 Contiene: Lácteos (yogur, nata)
-- 🌶️ Contiene: Especias variadas (posible alérgeno en personas sensibles)
-- ✅ Sin: Gluten, huevos, marisco, pescado, frutos secos
-
 ## 📚 Referencias
 
 - Receta inspirada en la cocina india moderna y británico-india.

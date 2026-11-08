@@ -20,6 +20,27 @@ image: ../../assets/images/recetas/principales/costillas-bbq.svg
 
 Las costillas BBQ son un clásico americano adaptado a la cocina casera. Costillas tiernas y jugosas marinadas y glaseadas con una sabrosa salsa BBQ casera. Son perfectas para cenas en familia o para llevar a una comida campestre.
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 620 kcal | - |
+| 💪 Proteínas | 48 g | 96% |
+| 🥗 Grasas | 38 g | 58% |
+| 🌾 Carbohidratos | 18 g | 6% |
+| 🧂 Sodio | 580 mg | 25% |
+| 💎 Calcio | 65 mg | 5% |
+| 🩸 Hierro | 2.8 mg | 16% |
+| 🥦 Fibra | 0.3 g | 1% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🍖 Contiene: Cerdo
+- 🌶️ Contiene: Salsa Worcestershire (puede contener anchoas/pescado)
+- ✅ Sin: Gluten, huevos, lácteos, marisco, frutos secos
 ## 🛒 Ingredientes
 
 **Para las costillas:**
@@ -77,13 +98,6 @@ Las costillas BBQ son un clásico americano adaptado a la cocina casera. Costill
 - 🍽️ Sirve con ensalada, patatas asadas o maíz dulce.
 - 🔪 Usa un termómetro de cocina para asegurar la cocción (temperatura interna 70°C).
 - 👨‍👩‍👧‍👦 Perfectas para cenas casuales o comidas especiales.
-
-## ⚠️ Alergenos
-
-- 🍖 Contiene: Cerdo
-- 🌶️ Contiene: Salsa Worcestershire (puede contener anchoas/pescado)
-- ✅ Sin: Gluten, huevos, lácteos, marisco, frutos secos
-
 ## 📚 Referencias
 
 - Receta inspirada en la cocina BBQ americana.

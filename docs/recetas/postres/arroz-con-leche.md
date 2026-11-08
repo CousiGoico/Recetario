@@ -19,6 +19,26 @@ image: ../../assets/images/recetas/postres/arroz-con-leche.svg
 
 El arroz con leche es un postre tradicional español muy popular. Su sabor suave, cremoso y reconfortante lo convierte en una opción ideal para cualquier momento. Se prepara hirviendo el arroz en leche con canela y azúcar hasta obtener una textura cremosa y deliciosa.
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 280 kcal | - |
+| 💪 Proteínas | 6 g | 12% |
+| 🥗 Grasas | 4 g | 6% |
+| 🌾 Carbohidratos | 56 g | 19% |
+| 🧂 Sodio | 85 mg | 4% |
+| 💎 Calcio | 185 mg | 15% |
+| 🩸 Hierro | 0.8 mg | 4% |
+| 🥦 Fibra | 0.5 g | 2% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🥛 Contiene: Leche
+- ✅ Sin: Gluten, huevos, marisco, pescado, frutos secos (a menos que los añadas)
 ## 🛒 Ingredientes
 
 - 🍚 Arroz redondo (200 g)
@@ -46,12 +66,6 @@ El arroz con leche es un postre tradicional español muy popular. Su sabor suave
 - 🥜 Puedes añadir pasas, piñones o almendras tostadas como toque especial.
 - ❄️ Se conserva bien en la nevera durante 2-3 días.
 - 🎀 La rama de canela y la cáscara de limón dan un aroma y sabor muy especial.
-
-## ⚠️ Alergenos
-
-- 🥛 Contiene: Leche
-- ✅ Sin: Gluten, huevos, marisco, pescado, frutos secos (a menos que los añadas)
-
 ## 📚 Referencias
 
 - [Receta tradicional de arroz con leche](https://www.recetasdecocina.es)

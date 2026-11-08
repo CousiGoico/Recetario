@@ -20,6 +20,28 @@ image: ../../assets/images/recetas/principales/pollo-con-almendras.svg
 
 Este pollo con almendras es un plato delicioso que combina el sabor umami de la soja con la textura crujiente de las almendras enteras. Es una receta fácil de preparar que resulta muy sabrosa y presentable, ideal para cenas rápidas entre semana o para sorprender a los comensales.
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 480 kcal | - |
+| 💪 Proteínas | 42 g | 84% |
+| 🥗 Grasas | 26 g | 40% |
+| 🌾 Carbohidratos | 18 g | 6% |
+| 🧂 Sodio | 580 mg | 25% |
+| 💎 Calcio | 85 mg | 7% |
+| 🩸 Hierro | 2.8 mg | 16% |
+| 🥦 Fibra | 3.5 g | 14% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🍗 Contiene: Pollo
+- 🥜 Contiene: Frutos secos (almendras)
+- 🌶️ Contiene: Salsa de soja (puede contener gluten, soja)
+- ✅ Sin: Lácteos, huevos, marisco, pescado
 ## 🛒 Ingredientes
 
 - 🍗 Pechuga de pollo cortada en trozos medianos (600 g)
@@ -56,14 +78,6 @@ Este pollo con almendras es un plato delicioso que combina el sabor umami de la 
 - 🫚 Si no tienes jengibre fresco, puedes usar jengibre molido (media cucharadita).
 - 🥬 La receta se puede hacer vegetariana usando tofu en lugar de pollo.
 - ⏱️ Se puede preparar con antelación sin las almendras y añadirlas al final para mantener la crujencia.
-
-## ⚠️ Alergenos
-
-- 🍗 Contiene: Pollo
-- 🥜 Contiene: Frutos secos (almendras)
-- 🌶️ Contiene: Salsa de soja (puede contener gluten, soja)
-- ✅ Sin: Lácteos, huevos, marisco, pescado
-
 ## 📚 Referencias
 
 - Receta inspirada en platos asiáticos de pollo con frutos secos.

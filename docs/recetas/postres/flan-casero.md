@@ -18,6 +18,27 @@ image: ../../assets/images/recetas/postres/flan-casero.svg
 
 Un postre suave y sencillo, perfecto para compartir.
 
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 250 kcal | - |
+| 💪 Proteínas | 8 g | 16% |
+| 🥗 Grasas | 15 g | 23% |
+| 🌾 Carbohidratos | 22 g | 7% |
+| 🧂 Sodio | 120 mg | 5% |
+| 💎 Calcio | 180 mg | 14% |
+| 🩸 Hierro | 0.8 mg | 4% |
+| 🥦 Fibra | 0 g | 0% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🥛 Contiene: Lácteos (leche), huevos
+- 🧂 Puede contener: Trazas de gluten
+- ✅ Sin: Gluten, frutos secos, marisco, pescado
+
 ## 🛒 Ingredientes
 
 - 🥛 Leche
@@ -37,8 +58,12 @@ Un postre suave y sencillo, perfecto para compartir.
 
 ❄️ Deja enfriar antes de desmoldar para que quede mejor.
 
-## ⚠️ Alergenos
+## 📚 Referencias
 
-- 🥛 Contiene: Lácteos (leche), huevos
-- 🧂 Puede contener: Trazas de gluten
-- ✅ Sin: Gluten, frutos secos, marisco, pescado
+- Receta clásica española.
+
+## 🏷️ Tags
+
+- #postre
+- #flan
+- #clásico

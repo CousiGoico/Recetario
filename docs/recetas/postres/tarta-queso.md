@@ -19,6 +19,30 @@ image: ../../assets/images/recetas/postres/flan-casero.svg
 
 Tarta de queso - La villa
 
+
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 420 kcal | - |
+| 💪 Proteínas | 8 g | 16% |
+| 🥗 Grasas | 28 g | 43% |
+| 🌾 Carbohidratos | 38 g | 13% |
+| 🧂 Sodio | 280 mg | 12% |
+| 💎 Calcio | 250 mg | 20% |
+| 🩸 Hierro | 0.7 mg | 4% |
+| 🥦 Fibra | 0.8 g | 3% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🧀 Contiene: Queso Philadelphia, nata (lácteos)
+- 🥚 Contiene: Huevos
+- 🌾 Contiene: Harina de trigo (gluten)
+- 🍪 Contiene: Galletas María (gluten)
+- 🧈 Contiene: Mantequilla (lácteos)
+- ✅ Sin: Marisco, pescado, frutos secos
 ## 🛒 Ingredientes
 
 | Ingrediente | Cantidad |
@@ -56,16 +80,6 @@ Tarta de queso - La villa
 
 - 🧊 Deja enfriar antes de desmoldar para que quede mejor.
 - 🌾 Se puede realizar una versión sin lactosa, cambiando la nata y el queso philadelphia por su versión sin lactosa.
-
-## ⚠️ Alergenos
-
-- 🧀 Contiene: Queso Philadelphia, nata (lácteos)
-- 🥚 Contiene: Huevos
-- 🌾 Contiene: Harina de trigo (gluten)
-- 🍪 Contiene: Galletas María (gluten)
-- 🧈 Contiene: Mantequilla (lácteos)
-- ✅ Sin: Marisco, pescado, frutos secos
-
 ## 🏷️ Tags
 
 #TartaQueso #LaVilla #Postre #Dulce #SinLactosa

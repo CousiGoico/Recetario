@@ -20,6 +20,29 @@ image: ../../assets/images/recetas/entradas/ensalada-cesar.svg
 
 La ensalada César es una receta clásica y deliciosa que combina lechuga crujiente con una salsa cremosa y sabrosa, complementada con queso parmesano rallado y crutones dorados. Es la entrada perfecta para cualquier comida, ligera pero saciante.
 
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 320 kcal | - |
+| 💪 Proteínas | 12 g | 24% |
+| 🥗 Grasas | 24 g | 37% |
+| 🌾 Carbohidratos | 18 g | 6% |
+| 🧂 Sodio | 580 mg | 25% |
+| 💎 Calcio | 280 mg | 22% |
+| 🩸 Hierro | 1.8 mg | 10% |
+| 🥦 Fibra | 2.5 g | 10% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🐟 Contiene: Anchoas (pescado)
+- 🧀 Contiene: Queso Parmesano (lácteos)
+- 🥚 Contiene: Huevos (en la salsa)
+- 🌾 Contiene: Gluten (en el pan de los crutones)
+- ✅ Sin: Marisco, frutos secos
+
 ## 🛒 Ingredientes
 
 **Para la ensalada:**
@@ -73,14 +96,6 @@ La ensalada César es una receta clásica y deliciosa que combina lechuga crujie
 - 🐟 Las anchoas son opcionales, pero le dan el sabor tradicional típico de esta ensalada.
 - ⏱️ Prepara la ensalada poco antes de servir para que la lechuga no se ablanda.
 - 🍞 Puedes hacer los crutones con pan tostado sobrante o pan de la mañana anterior.
-
-## ⚠️ Alergenos
-
-- 🐟 Contiene: Anchoas (pescado)
-- 🧀 Contiene: Queso Parmesano (lácteos)
-- 🥚 Contiene: Huevos (en la salsa)
-- 🌾 Contiene: Gluten (en el pan de los crutones)
-- ✅ Sin: Marisco, frutos secos
 
 ## 📚 Referencias
 

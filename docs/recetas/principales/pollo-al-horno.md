@@ -18,6 +18,26 @@ image: ../../assets/images/recetas/principales/pollo-al-horno.svg
 
 Un plato sencillo, sabroso y fácil de preparar con ingredientes básicos.
 
+## 📊 Información Nutricional (por porción)
+
+| Nutriente | Cantidad | % VD |
+|-----------|----------|------|
+| 🔥 Calorías | 380 kcal | - |
+| 💪 Proteínas | 38 g | 76% |
+| 🥗 Grasas | 18 g | 28% |
+| 🌾 Carbohidratos | 16 g | 5% |
+| 🧂 Sodio | 320 mg | 14% |
+| 💎 Calcio | 42 mg | 3% |
+| 🩸 Hierro | 1.8 mg | 10% |
+| 🥦 Fibra | 1.2 g | 5% |
+
+*VD = Valor Diario basado en una dieta de 2000 calorías*
+
+## ⚠️ Alergenos
+
+- 🥒 Contiene: Verduras frescas
+- ✅ Sin: Gluten, huevos, lácteos, marisco, pescado, frutos secos
+
 ## 🛒 Ingredientes
 
 - 🍗 Cuartos de pollo
@@ -41,7 +61,12 @@ Un plato sencillo, sabroso y fácil de preparar con ingredientes básicos.
 - 🧂 Ajusta la sal y el vinagre al gusto.
 - 🍞 Puedes añadir pan o acompañar con verduras picadas si lo prefieres.
 
-## ⚠️ Alergenos
+## 📚 Referencias
 
-- 🥒 Contiene: Verduras frescas
-- ✅ Sin: Gluten, huevos, lácteos, marisco, pescado, frutos secos
+- Receta casera tradicional.
+
+## 🏷️ Tags
+
+- #pollo
+- #horno
+- #casero
