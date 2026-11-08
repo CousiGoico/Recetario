@@ -1,8 +1,9 @@
-# Entradas
+# 🥗 Entradas
 
 Recetas sencillas para empezar bien una comida.
 
-## Ejemplos
+## 📋 Ejemplos
 
 - [Ensalada César](ensalada-cesar.md)
+- [Gambas al ajillo](gambas-al-ajillo.md)
 - [Gazpacho andaluz](gazpacho-andaluz.md)
