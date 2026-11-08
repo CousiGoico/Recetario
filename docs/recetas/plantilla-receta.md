@@ -32,3 +32,13 @@ Escribe una breve descripción de la receta.
 ## Notas
 
 Añade observaciones o sugerencias útiles.
+
+## Referencias
+
+- [Referencia 1](https://www.ejemplo.com)
+- [Referencia 2](https://www.ejemplo.com)
+
+## Tags
+
+- #tag1
+- #tag2
