@@ -35,6 +35,13 @@ Receta fresca, sencilla y muy apropiada para servir como entrante.
 3. 🧂 Ajusta la sal y el vinagre al gusto.
 4. ❄️ Sirve bien frío.
 
-## 💡 Nota
+## 💡 Notas
 
-Puedes añadir pan o acompañar con verduras picadas si lo prefieres.
+- 🥄 Remueve ocasionalmente para evitar que se pegue y sigue cocinando hasta que el arroz esté tierno y la leche se haya absorbido (unos 30-40 minutos).
+- 🧂 Ajusta la sal y el vinagre al gusto.
+- 🍞 Puedes añadir pan o acompañar con verduras picadas si lo prefieres.
+
+## ⚠️ Alergenos
+
+- 🥒 Contiene: Verduras frescas (tomate, pepino, pimiento)
+- ✅ Sin: Gluten, huevos, lácteos, marisco, pescado, frutos secos

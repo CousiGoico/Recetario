@@ -67,6 +67,12 @@ Este arroz con gambas y chirlas es un plato marinero delicioso que combina todo 
 - 🌡️ Este plato es mejor servirlo caliente recién hecho.
 - 🫒 Si quieres hacerlo más ligero, reduce la cantidad de aceite a 2 cucharadas.
 
+## ⚠️ Alergenos
+
+- 🦐 Contiene: Marisco (gambas, chirlas)
+- 🍚 Contiene: Arroz
+- ✅ Sin: Gluten, huevos, lácteos, frutos secos, pescado
+
 ## 📚 Referencias
 
 - Receta inspirada en los platos marineros españoles tradicionales.

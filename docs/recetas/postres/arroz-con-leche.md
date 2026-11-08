@@ -47,6 +47,11 @@ El arroz con leche es un postre tradicional español muy popular. Su sabor suave
 - ❄️ Se conserva bien en la nevera durante 2-3 días.
 - 🎀 La rama de canela y la cáscara de limón dan un aroma y sabor muy especial.
 
+## ⚠️ Alergenos
+
+- 🥛 Contiene: Leche
+- ✅ Sin: Gluten, huevos, marisco, pescado, frutos secos (a menos que los añadas)
+
 ## 📚 Referencias
 
 - [Receta tradicional de arroz con leche](https://www.recetasdecocina.es)

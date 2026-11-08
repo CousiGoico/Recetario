@@ -57,6 +57,13 @@ Este pollo con almendras es un plato delicioso que combina el sabor umami de la 
 - 🥬 La receta se puede hacer vegetariana usando tofu en lugar de pollo.
 - ⏱️ Se puede preparar con antelación sin las almendras y añadirlas al final para mantener la crujencia.
 
+## ⚠️ Alergenos
+
+- 🍗 Contiene: Pollo
+- 🥜 Contiene: Frutos secos (almendras)
+- 🌶️ Contiene: Salsa de soja (puede contener gluten, soja)
+- ✅ Sin: Lácteos, huevos, marisco, pescado
+
 ## 📚 Referencias
 
 - Receta inspirada en platos asiáticos de pollo con frutos secos.

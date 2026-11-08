@@ -36,3 +36,9 @@ Un postre suave y sencillo, perfecto para compartir.
 ## 💡 Nota
 
 ❄️ Deja enfriar antes de desmoldar para que quede mejor.
+
+## ⚠️ Alergenos
+
+- 🥛 Contiene: Lácteos (leche), huevos
+- 🧂 Puede contener: Trazas de gluten
+- ✅ Sin: Gluten, frutos secos, marisco, pescado

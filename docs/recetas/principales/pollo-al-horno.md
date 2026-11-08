@@ -35,6 +35,13 @@ Un plato sencillo, sabroso y fácil de preparar con ingredientes básicos.
 3. 🍽️ Coloca el pollo y las patatas en una bandeja.
 4. 🌡️ Hornea hasta que esté bien cocinado.
 
-## 💡 Nota
+## 💡 Notas
 
-🥕 Puedes añadir verduras según lo que tengas en la nevera.
+- 🥄 Remueve ocasionalmente para evitar que se pegue y sigue cocinando hasta que el arroz esté tierno y la leche se haya absorbido (unos 30-40 minutos).
+- 🧂 Ajusta la sal y el vinagre al gusto.
+- 🍞 Puedes añadir pan o acompañar con verduras picadas si lo prefieres.
+
+## ⚠️ Alergenos
+
+- 🥒 Contiene: Verduras frescas
+- ✅ Sin: Gluten, huevos, lácteos, marisco, pescado, frutos secos

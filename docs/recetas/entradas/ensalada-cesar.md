@@ -74,6 +74,14 @@ La ensalada César es una receta clásica y deliciosa que combina lechuga crujie
 - ⏱️ Prepara la ensalada poco antes de servir para que la lechuga no se ablanda.
 - 🍞 Puedes hacer los crutones con pan tostado sobrante o pan de la mañana anterior.
 
+## ⚠️ Alergenos
+
+- 🐟 Contiene: Anchoas (pescado)
+- 🧀 Contiene: Queso Parmesano (lácteos)
+- 🥚 Contiene: Huevos (en la salsa)
+- 🌾 Contiene: Gluten (en el pan de los crutones)
+- ✅ Sin: Marisco, frutos secos
+
 ## 📚 Referencias
 
 - [Receta clásica de ensalada César](https://www.recetasdecocina.es)

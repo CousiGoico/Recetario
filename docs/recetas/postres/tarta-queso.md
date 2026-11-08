@@ -52,10 +52,19 @@ Tarta de queso - La villa
 9. ❄️ Cuando esté templado, se mete en la nevera un par de horas.
 10. ✨ Lo más importante: ¡disfrutarla!
 
-## 💡 Nota
+## 💡 Notas
 
 - 🧊 Deja enfriar antes de desmoldar para que quede mejor.
 - 🌾 Se puede realizar una versión sin lactosa, cambiando la nata y el queso philadelphia por su versión sin lactosa.
+
+## ⚠️ Alergenos
+
+- 🧀 Contiene: Queso Philadelphia, nata (lácteos)
+- 🥚 Contiene: Huevos
+- 🌾 Contiene: Harina de trigo (gluten)
+- 🍪 Contiene: Galletas María (gluten)
+- 🧈 Contiene: Mantequilla (lácteos)
+- ✅ Sin: Marisco, pescado, frutos secos
 
 ## 🏷️ Tags
 

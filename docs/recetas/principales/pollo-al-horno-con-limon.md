@@ -68,6 +68,11 @@ El pollo al horno con limón es una receta clásica, sencilla y muy sabrosa. El 
 - 🍽️ Sirve acompañado de ensalada fresca, patatas al horno o arroz.
 - 🗂️ El pollo se puede preparar con antelación y guardar en la nevera hasta 3 días.
 
+## ⚠️ Alergenos
+
+- 🍗 Contiene: Pollo
+- ✅ Sin: Gluten, huevos, lácteos, marisco, pescado, frutos secos
+
 ## 📚 Referencias
 
 - Receta inspirada en los platos mediterráneos tradicionales.
