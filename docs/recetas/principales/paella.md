@@ -68,6 +68,13 @@ La paella es una de las recetas más emblemáticas de la gastronomía española.
 - 👨‍👩‍👧‍👦 Es un plato perfecto para comidas en familia o cenas especiales.
 - 🔪 Prepara todos los ingredientes antes de empezar (mise en place).
 
+## ⚠️ Alergenos
+
+- 🍚 Contiene: Arroz
+- 🦐 Contiene: Marisco (gambas, mejillones, calamares)
+- 🍗 Contiene: Pollo
+- ✅ Sin: Gluten, huevos, frutos secos, lácteos
+
 ## 📚 Referencias
 
 - Receta tradicional española de la Comunidad Valenciana.

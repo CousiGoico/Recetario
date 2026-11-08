@@ -54,6 +54,11 @@ Las gambas al ajillo son una receta clásica española, sencilla pero espectacul
 - 🍞 Sirve con pan tostado para aprovechar todo el aceite aromático.
 - 👨‍👩‍👧‍👦 Perfecta como entrada para cenas especiales o como tapa.
 
+## ⚠️ Alergenos
+
+- 🦐 Contiene: Marisco (gambas)
+- ✅ Sin: Gluten, huevos, frutos secos, lácteos, pescado
+
 ## 📚 Referencias
 
 - Receta tradicional española de los bares de tapas.

@@ -78,6 +78,12 @@ Las costillas BBQ son un clásico americano adaptado a la cocina casera. Costill
 - 🔪 Usa un termómetro de cocina para asegurar la cocción (temperatura interna 70°C).
 - 👨‍👩‍👧‍👦 Perfectas para cenas casuales o comidas especiales.
 
+## ⚠️ Alergenos
+
+- 🍖 Contiene: Cerdo
+- 🌶️ Contiene: Salsa Worcestershire (puede contener anchoas/pescado)
+- ✅ Sin: Gluten, huevos, lácteos, marisco, frutos secos
+
 ## 📚 Referencias
 
 - Receta inspirada en la cocina BBQ americana.

@@ -53,6 +53,12 @@ La pasta a la carbonara es un clásico italiano auténtico, cremoso y sabroso si
 - ⏱️ Trabaja rápido una vez mezclada la pasta con los huevos.
 - 🍝 La carbonara es sencilla pero técnica. ¡Práctica hace el maestro!
 
+## ⚠️ Alergenos
+
+- 🍝 Contiene: Pasta (gluten), huevos, queso Pecorino Romano
+- 🥓 Contiene: Cerdo (guanciale/panceta)
+- ✅ Sin: Marisco, pescado, frutos secos
+
 ## 📚 Referencias
 
 - Receta auténtica romana de la cocina italiana.

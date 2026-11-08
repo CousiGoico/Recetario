@@ -66,6 +66,11 @@ Las lentejas guisadas son un plato tradicional español reconfortante y muy nutr
 - 🍲 Se conserva bien en la nevera 4-5 días y es aún más sabrosa al día siguiente.
 - ♻️ Se puede congelar en porciones.
 
+## ⚠️ Alergenos
+
+- 🥓 Contiene: Carne de cerdo (chorizo)
+- ✅ Sin: Gluten, pescado, marisco, frutos secos, lácteos
+
 ## 📚 Referencias
 
 - Receta tradicional española, perfecta para comidas sencillas.

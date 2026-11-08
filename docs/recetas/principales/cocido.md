@@ -66,6 +66,12 @@ El cocido es uno de los platos más tradicionales y reconfortantes de la gastron
 - 🌡️ Perfecta comida para días fríos o cuando tienes tiempo.
 - 👨‍👩‍👧‍👦 Plato muy tradicional que reúne a la familia.
 
+## ⚠️ Alergenos
+
+- 🥩 Contiene: Carnes de ternera y pollo, garbanzos
+- 🍡 Puede contener: Cerdo (si usa chorizo y morcilla)
+- ✅ Sin: Gluten, pescado, marisco, frutos secos, lácteos
+
 ## 📚 Referencias
 
 - Receta tradicional española, especialmente de Madrid.

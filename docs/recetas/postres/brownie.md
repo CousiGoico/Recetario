@@ -61,6 +61,12 @@ Los brownies son un postre clásico americano: densos, fudgy y llenos de sabor a
 - ❄️ Se conservan bien durante 5-7 días en un recipiente hermético.
 - 🌡️ Están especialmente buenos cuando se sirven ligeramente templados.
 
+## ⚠️ Alergenos
+
+- 🍫 Contiene: Cacao, chocolate, huevos, harina de trigo
+- 🥜 Puede contener: Frutos secos (si los añades)
+- ✅ Sin: Lácteos (si usas mantequilla vegana), gluten (si usas harina sin gluten)
+
 ## 📚 Referencias
 
 - Receta clásica de brownies americanos.

@@ -58,6 +58,12 @@ El salmón a la mantequilla es una receta elegante pero fácil de preparar. El p
 - 🍽️ Sirve acompañado de verduras asadas, patatas o arroz blanco.
 - 👨‍👩‍👧‍👦 Plato perfecto para cenas elegantes o date night.
 
+## ⚠️ Alergenos
+
+- 🐟 Contiene: Salmón (pescado)
+- 🧈 Contiene: Lácteos (mantequilla)
+- ✅ Sin: Gluten, huevos, marisco, frutos secos
+
 ## 📚 Referencias
 
 - Receta clásica de la cocina francesa adaptada.

@@ -77,6 +77,12 @@ La pasta a la boloñesa es un clásico italiano que combina una sabrosa salsa de
 - 🗂️ La salsa se puede congelar y guardar hasta 3 meses.
 - 👨‍👩‍👧‍👦 Perfecta para comidas en familia o para hacer en cantidad y congelar en porciones.
 
+## ⚠️ Alergenos
+
+- 🥩 Contiene: Carne de ternera, gluten (pasta)
+- 🧈 Puede contener: Lácteos (mantequilla, si la usas)
+- ✅ Sin: Huevos, marisco, frutos secos, pescado
+
 ## 📚 Referencias
 
 - Receta clásica de Bolonia, Italia.

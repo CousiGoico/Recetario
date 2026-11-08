@@ -33,6 +33,11 @@ Escribe una breve descripción de la receta.
 
 Añade observaciones o sugerencias útiles.
 
+## ⚠️ Alergenos
+
+- 🥜 Puede contener: Frutos secos, gluten, lactosa, huevo, marisco, etc.
+- ✅ Sin: (indica si es sin gluten, sin lactosa, vegana, etc.)
+
 ## 📚 Referencias
 
 - [Referencia 1](https://www.ejemplo.com)
